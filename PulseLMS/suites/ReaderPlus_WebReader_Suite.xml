@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Reader+ Suite" configfailurepolicy="skip">
+	<listeners>
+		<listener class-name="com.readerplus.app.framework.CustomListeners" />
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+	</listeners>
+
+	<test name="Reader+ WebReader Test Cases" configfailurepolicy="skip">
+		<classes>
+			<class name="com.readerplus.webreader.test.LoginTest" />
+			<class name="com.readerplus.webreader.test.BookShelfTest" />
+			<class name="com.readerplus.webreader.test.BookReaderTest" />
+			
+		</classes>
+	</test>
+</suite>

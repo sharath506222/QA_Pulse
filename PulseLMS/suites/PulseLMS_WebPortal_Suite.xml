@@ -1,0 +1,42 @@
+
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Pulselms" configfailurepolicy="skip" >
+       <listeners> 
+              <listener class-name="com.pulselms.app.framework.CustomListeners" />   
+              <listener class-name="org.uncommons.reportng.HTMLReporter" />   
+       </listeners>
+       
+<test name="Pulselms Login Test Cases" configfailurepolicy="skip">
+		<classes>			
+			<class name="com.pulselms.webportal.test.LoginTest" >
+			    </class>
+ 		</classes>
+</test> 
+
+<test name="Pulselms Dashboard Test Cases" configfailurepolicy="skip">
+    <classes>
+        <class name="com.pulselms.webportal.test.DashboardTest"></class>
+    </classes>
+</test> 
+
+ <test name="Pulselms MyClass Test Cases" configfailurepolicy="skip" >
+     <classes>
+         <class name="com.pulselms.webportal.test.MyClassTest"></class>
+     </classes>
+ </test>
+ 
+  <test name="Pulselms CourseDetails Test Cases For Teacher" configfailurepolicy="skip" >
+     <classes>
+         <class name="com.pulselms.webportal.test.CourseDetailsTeacherTest"></class>
+     </classes>
+ </test>
+ 
+   <test name="Pulselms CourseDetails Test Cases For Student" configfailurepolicy="skip" >
+     <classes>
+         <class name="com.pulselms.webportal.test.CourseDetailsStudentTest"></class>
+     </classes>
+ </test>
+
+</suite>

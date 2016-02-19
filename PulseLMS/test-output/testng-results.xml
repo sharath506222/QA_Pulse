@@ -1,0 +1,1137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="4" total="88" passed="84">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="203358" started-at="2016-02-11T14:12:36Z" finished-at="2016-02-11T14:16:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="203358" started-at="2016-02-11T14:12:36Z" finished-at="2016-02-11T14:16:00Z">
+      <class name="com.pulselms.api.test.TestUsers">
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="6023" started-at="2016-02-11T19:42:38Z" data-provider="DP_POI" finished-at="2016-02-11T19:42:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Kownacki, Sue, Password=secret12, Role=Teacher, Description=Login with valid Email and Password, UserName=s.kownacki@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2510" started-at="2016-02-11T19:42:44Z" data-provider="DP_POI" finished-at="2016-02-11T19:42:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=McCloud, Dawn, Password=secret12, Role=Teacher, Description=Login with valid Email and Password, UserName=d.mccloud@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2076" started-at="2016-02-11T19:42:47Z" data-provider="DP_POI" finished-at="2016-02-11T19:42:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Shin, Jesusa, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=j.shin@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2089" started-at="2016-02-11T19:42:49Z" data-provider="DP_POI" finished-at="2016-02-11T19:42:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Frances, Rolland, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=r.frances@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2055" started-at="2016-02-11T19:42:51Z" data-provider="DP_POI" finished-at="2016-02-11T19:42:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Schmierer, Pamella, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=p.schmierer@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2355" started-at="2016-02-11T19:42:53Z" data-provider="DP_POI" finished-at="2016-02-11T19:42:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Kulzer, Glory, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=g.kulzer@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2204" started-at="2016-02-11T19:42:55Z" data-provider="DP_POI" finished-at="2016-02-11T19:42:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Pope, Shawna, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=s.pope@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="4842" started-at="2016-02-11T19:42:58Z" data-provider="DP_POI" finished-at="2016-02-11T19:43:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Callaro, Brandon, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=b.callaro@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2825" started-at="2016-02-11T19:43:02Z" data-provider="DP_POI" finished-at="2016-02-11T19:43:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Cartan, Scarlet, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=s.cartan@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2059" started-at="2016-02-11T19:43:05Z" data-provider="DP_POI" finished-at="2016-02-11T19:43:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Menter, Oretha, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=o.mener@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="4748" started-at="2016-02-11T19:43:07Z" data-provider="DP_POI" finished-at="2016-02-11T19:43:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Smith, Ty, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=t.smith@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2033" started-at="2016-02-11T19:43:12Z" data-provider="DP_POI" finished-at="2016-02-11T19:43:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Rochin, Juan, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=j.rochin@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2086" started-at="2016-02-11T19:43:14Z" data-provider="DP_POI" finished-at="2016-02-11T19:43:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Diello, Lindsey, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=l.diello@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2047" started-at="2016-02-11T19:43:16Z" data-provider="DP_POI" finished-at="2016-02-11T19:43:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Perez, Deborah, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=d.perez@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2060" started-at="2016-02-11T19:43:18Z" data-provider="DP_POI" finished-at="2016-02-11T19:43:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Dempsey, Heath, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=h.dempsey@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2054" started-at="2016-02-11T19:43:20Z" data-provider="DP_POI" finished-at="2016-02-11T19:43:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Mehta, Rory, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=r.mehta@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2013" started-at="2016-02-11T19:43:22Z" data-provider="DP_POI" finished-at="2016-02-11T19:43:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Mehta, Talia, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=t.mehta@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2103" started-at="2016-02-11T19:43:24Z" data-provider="DP_POI" finished-at="2016-02-11T19:43:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Hanson, Van, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=v.hanson@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2056" started-at="2016-02-11T19:43:26Z" data-provider="DP_POI" finished-at="2016-02-11T19:43:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Larry, Lucinda, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=l.larry@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2014" started-at="2016-02-11T19:43:28Z" data-provider="DP_POI" finished-at="2016-02-11T19:43:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Isaac, Beth, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=b.isaac@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2034" started-at="2016-02-11T19:43:30Z" data-provider="DP_POI" finished-at="2016-02-11T19:43:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Spickerman, Roland, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=r.spickerman@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2039" started-at="2016-02-11T19:43:33Z" data-provider="DP_POI" finished-at="2016-02-11T19:43:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Paulson, Howard, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=h.paulson@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2099" started-at="2016-02-11T19:43:35Z" data-provider="DP_POI" finished-at="2016-02-11T19:43:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Marison, Kim, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=k.marison@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2820" started-at="2016-02-11T19:43:37Z" data-provider="DP_POI" finished-at="2016-02-11T19:43:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Thurman, Uma, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=u.thurman@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2181" started-at="2016-02-11T19:43:39Z" data-provider="DP_POI" finished-at="2016-02-11T19:43:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Fuentes, Becky, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=b.fuentes@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="1989" started-at="2016-02-11T19:43:42Z" data-provider="DP_POI" finished-at="2016-02-11T19:43:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Corrington, Beatriz, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=b.corrington@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2541" started-at="2016-02-11T19:43:44Z" data-provider="DP_POI" finished-at="2016-02-11T19:43:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Maybury, Martin, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=m.maybury@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2012" started-at="2016-02-11T19:43:46Z" data-provider="DP_POI" finished-at="2016-02-11T19:43:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Gotter, Nieves, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=n.gotter@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2027" started-at="2016-02-11T19:43:48Z" data-provider="DP_POI" finished-at="2016-02-11T19:43:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Hanson, Leah, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=l.hanson@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2067" started-at="2016-02-11T19:43:50Z" data-provider="DP_POI" finished-at="2016-02-11T19:43:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Kind, Valorie, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=v.kind@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2023" started-at="2016-02-11T19:43:52Z" data-provider="DP_POI" finished-at="2016-02-11T19:43:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Wiklund, Melissa, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=m.wiklund@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2707" started-at="2016-02-11T19:43:54Z" data-provider="DP_POI" finished-at="2016-02-11T19:43:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Zane, Sheridan, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=s.zane@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="3607" started-at="2016-02-11T19:43:57Z" data-provider="DP_POI" finished-at="2016-02-11T19:44:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Simmons, Ben, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=b.simmons@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2664" started-at="2016-02-11T19:44:01Z" data-provider="DP_POI" finished-at="2016-02-11T19:44:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Kohn, Audra, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=a.kohn@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2024" started-at="2016-02-11T19:44:03Z" data-provider="DP_POI" finished-at="2016-02-11T19:44:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Weismann, Darren, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=d.weismann@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2065" started-at="2016-02-11T19:44:05Z" data-provider="DP_POI" finished-at="2016-02-11T19:44:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Jillson, Fernanada, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=f.jillson@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2111" started-at="2016-02-11T19:44:07Z" data-provider="DP_POI" finished-at="2016-02-11T19:44:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Fredricks, Helga, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=h.fredricks@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2024" started-at="2016-02-11T19:44:10Z" data-provider="DP_POI" finished-at="2016-02-11T19:44:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Pines, Ash, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=a.pines@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2680" started-at="2016-02-11T19:44:12Z" data-provider="DP_POI" finished-at="2016-02-11T19:44:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Neves, Fausto, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=f.neves@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2068" started-at="2016-02-11T19:44:14Z" data-provider="DP_POI" finished-at="2016-02-11T19:44:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Cass, Ron, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=r.cass@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2071" started-at="2016-02-11T19:44:16Z" data-provider="DP_POI" finished-at="2016-02-11T19:44:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Mann, Margaret, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=m.mann@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="1985" started-at="2016-02-11T19:44:18Z" data-provider="DP_POI" finished-at="2016-02-11T19:44:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Atterbury, Norah, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=n.atterbury@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2052" started-at="2016-02-11T19:44:20Z" data-provider="DP_POI" finished-at="2016-02-11T19:44:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Baltimore, Aliza, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=a.baltimore@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2028" started-at="2016-02-11T19:44:22Z" data-provider="DP_POI" finished-at="2016-02-11T19:44:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Kindle, Carrie, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=c.kindle@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2043" started-at="2016-02-11T19:44:24Z" data-provider="DP_POI" finished-at="2016-02-11T19:44:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Hermon, Mason, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=m.hermon@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2092" started-at="2016-02-11T19:44:26Z" data-provider="DP_POI" finished-at="2016-02-11T19:44:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Hair, Minda, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=m.hair@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2037" started-at="2016-02-11T19:44:29Z" data-provider="DP_POI" finished-at="2016-02-11T19:44:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Jeff, Gilma, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=g.jeff@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2058" started-at="2016-02-11T19:44:31Z" data-provider="DP_POI" finished-at="2016-02-11T19:44:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=James, Amanda, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=a.james@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2058" started-at="2016-02-11T19:44:33Z" data-provider="DP_POI" finished-at="2016-02-11T19:44:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Norman, Viola, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=v.norman@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2093" started-at="2016-02-11T19:44:35Z" data-provider="DP_POI" finished-at="2016-02-11T19:44:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Mondale, Tess, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=t.mondale@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2117" started-at="2016-02-11T19:44:37Z" data-provider="DP_POI" finished-at="2016-02-11T19:44:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Costello, Elvis, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=e.costello@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2045" started-at="2016-02-11T19:44:39Z" data-provider="DP_POI" finished-at="2016-02-11T19:44:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Didi, Louise, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=l.didi@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2054" started-at="2016-02-11T19:44:41Z" data-provider="DP_POI" finished-at="2016-02-11T19:44:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Yellen, Janet, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=j.yellen@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2007" started-at="2016-02-11T19:44:43Z" data-provider="DP_POI" finished-at="2016-02-11T19:44:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Rand, Margot, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=m.rand@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2326" started-at="2016-02-11T19:44:45Z" data-provider="DP_POI" finished-at="2016-02-11T19:44:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Bennett, Dahlia, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=d.bennett@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="1995" started-at="2016-02-11T19:44:47Z" data-provider="DP_POI" finished-at="2016-02-11T19:44:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=McKeon, Domingo, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=d.mckeon@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2076" started-at="2016-02-11T19:44:49Z" data-provider="DP_POI" finished-at="2016-02-11T19:44:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Kendall, Holly, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=h.kendall@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2087" started-at="2016-02-11T19:44:51Z" data-provider="DP_POI" finished-at="2016-02-11T19:44:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Ziller, Kam, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=k.ziller@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="1999" started-at="2016-02-11T19:44:54Z" data-provider="DP_POI" finished-at="2016-02-11T19:44:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Goetz, Boris, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=b.goetz@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2317" started-at="2016-02-11T19:44:56Z" data-provider="DP_POI" finished-at="2016-02-11T19:44:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Staiano, Yolanda, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=y.staiano@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="4219" started-at="2016-02-11T19:44:58Z" data-provider="DP_POI" finished-at="2016-02-11T19:45:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Hamm, Laurie, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=l.hamm@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2023" started-at="2016-02-11T19:45:02Z" data-provider="DP_POI" finished-at="2016-02-11T19:45:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Hanson, Jose, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=j.hanson@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2020" started-at="2016-02-11T19:45:04Z" data-provider="DP_POI" finished-at="2016-02-11T19:45:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Abramovitz, Tom, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=t.abramovitz@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2070" started-at="2016-02-11T19:45:06Z" data-provider="DP_POI" finished-at="2016-02-11T19:45:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Nunez, Peggy, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=p.nunez@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2095" started-at="2016-02-11T19:45:08Z" data-provider="DP_POI" finished-at="2016-02-11T19:45:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Hank, Robbie, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=r.hank@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="3072" started-at="2016-02-11T19:45:10Z" data-provider="DP_POI" finished-at="2016-02-11T19:45:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Kesten, Sam, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=s.kesten@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2096" started-at="2016-02-11T19:45:13Z" data-provider="DP_POI" finished-at="2016-02-11T19:45:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Manson, Ben, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=b.manson@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2016" started-at="2016-02-11T19:45:15Z" data-provider="DP_POI" finished-at="2016-02-11T19:45:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Harms, Shirley, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=s.harms@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2038" started-at="2016-02-11T19:45:17Z" data-provider="DP_POI" finished-at="2016-02-11T19:45:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Ward, Alyssa, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=a.ward@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="1997" started-at="2016-02-11T19:45:20Z" data-provider="DP_POI" finished-at="2016-02-11T19:45:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Gifford, Frank, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=f.gifford@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2006" started-at="2016-02-11T19:45:21Z" data-provider="DP_POI" finished-at="2016-02-11T19:45:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Steinhorst, Rian, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=r.steinhorst@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2026" started-at="2016-02-11T19:45:24Z" data-provider="DP_POI" finished-at="2016-02-11T19:45:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Kallen, Carla, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=c.kallen@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2024" started-at="2016-02-11T19:45:26Z" data-provider="DP_POI" finished-at="2016-02-11T19:45:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Smith, Lashanda, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=l.smith@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2066" started-at="2016-02-11T19:45:28Z" data-provider="DP_POI" finished-at="2016-02-11T19:45:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Catalina, Jarrod, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=j.catalina@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2054" started-at="2016-02-11T19:45:30Z" data-provider="DP_POI" finished-at="2016-02-11T19:45:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Rabago, Leah, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=l.rabago@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2426" started-at="2016-02-11T19:45:32Z" data-provider="DP_POI" finished-at="2016-02-11T19:45:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Greeves, Yasmine, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=y.greeves@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2012" started-at="2016-02-11T19:45:34Z" data-provider="DP_POI" finished-at="2016-02-11T19:45:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Snelling, Jimmie, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=j.snelling@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2038" started-at="2016-02-11T19:45:36Z" data-provider="DP_POI" finished-at="2016-02-11T19:45:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Thomas, Isaiah, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=i.thomas@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2061" started-at="2016-02-11T19:45:38Z" data-provider="DP_POI" finished-at="2016-02-11T19:45:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Teoh, Joanna, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=j.teoh@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2072" started-at="2016-02-11T19:45:40Z" data-provider="DP_POI" finished-at="2016-02-11T19:45:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Menkes, Susie, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=s.menkes@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2019" started-at="2016-02-11T19:45:42Z" data-provider="DP_POI" finished-at="2016-02-11T19:45:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Amazon, Denny, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=d.amazon@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2064" started-at="2016-02-11T19:45:44Z" data-provider="DP_POI" finished-at="2016-02-11T19:45:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Geist, Willie, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=w.geist@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="3110" started-at="2016-02-11T19:45:46Z" data-provider="DP_POI" finished-at="2016-02-11T19:45:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Brake, Maggie, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=m.brake@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="PASS" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2578" started-at="2016-02-11T19:45:49Z" data-provider="DP_POI" finished-at="2016-02-11T19:45:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=Romack, Arlo, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=a.romack@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="FAIL" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="1988" started-at="2016-02-11T19:45:52Z" data-provider="DP_POI" finished-at="2016-02-11T19:45:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=, Password=secret12, Role=, Description=Login with invalid Email/Password, UserName=invalid@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [200] but found [400]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [200] but found [400]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertEquals(Assert.java:123)
+	at org.testng.Assert.assertEquals(Assert.java:370)
+	at org.testng.Assert.assertEquals(Assert.java:380)
+	at com.pulselms.api.test.TestUsers.webCredentialsPulse(TestUsers.java:43)
+	at com.pulselms.api.test.TestUsers.GetAllUsersTest(TestUsers.java:25)
+	at sun.reflect.GeneratedMethodAccessor47.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="FAIL" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="1876" started-at="2016-02-11T19:45:54Z" data-provider="DP_POI" finished-at="2016-02-11T19:45:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=, Password=, Role=, Description=login with Blankfields, UserName=}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [200] but found [400]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [200] but found [400]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertEquals(Assert.java:123)
+	at org.testng.Assert.assertEquals(Assert.java:370)
+	at org.testng.Assert.assertEquals(Assert.java:380)
+	at com.pulselms.api.test.TestUsers.webCredentialsPulse(TestUsers.java:43)
+	at com.pulselms.api.test.TestUsers.GetAllUsersTest(TestUsers.java:25)
+	at sun.reflect.GeneratedMethodAccessor47.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="FAIL" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="1891" started-at="2016-02-11T19:45:56Z" data-provider="DP_POI" finished-at="2016-02-11T19:45:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=, Password=secret12, Role=, Description=login with user blank, UserName=}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [200] but found [400]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [200] but found [400]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertEquals(Assert.java:123)
+	at org.testng.Assert.assertEquals(Assert.java:370)
+	at org.testng.Assert.assertEquals(Assert.java:380)
+	at com.pulselms.api.test.TestUsers.webCredentialsPulse(TestUsers.java:43)
+	at com.pulselms.api.test.TestUsers.GetAllUsersTest(TestUsers.java:25)
+	at sun.reflect.GeneratedMethodAccessor47.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+        <test-method status="FAIL" signature="GetAllUsersTest(java.util.Map)[pri:0, instance:com.pulselms.api.test.TestUsers@6e6d5e]" name="GetAllUsersTest" duration-ms="2003" started-at="2016-02-11T19:45:58Z" data-provider="DP_POI" finished-at="2016-02-11T19:46:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{loggedinUser=, Password=, Role=, Description=login with password blank, UserName=john@anymail.com}]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [200] but found [400]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [200] but found [400]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertEquals(Assert.java:123)
+	at org.testng.Assert.assertEquals(Assert.java:370)
+	at org.testng.Assert.assertEquals(Assert.java:380)
+	at com.pulselms.api.test.TestUsers.webCredentialsPulse(TestUsers.java:43)
+	at com.pulselms.api.test.TestUsers.GetAllUsersTest(TestUsers.java:25)
+	at sun.reflect.GeneratedMethodAccessor47.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllUsersTest -->
+      </class> <!-- com.pulselms.api.test.TestUsers -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Reader+ Suite" configfailurepolicy="skip" >
+       <listeners> 
+              <listener class-name="com.readerplus.app.framework.CustomListeners" />   
+              <listener class-name="org.uncommons.reportng.HTMLReporter" />   
+       </listeners>
+ 
+  <test name="Reader+ Test Cases" configfailurepolicy="skip">
+		<classes>			
+			<class name="com.readerplus.app.test.LoginTest" />
+			<class name="com.readerplus.app.test.MyBookShelfTest" />	
+			<class name="com.readerplus.app.test.FixedLayoutBookTest" />
+			<class name="com.readerplus.app.test.FlowableLayoutBookTest" />		
+			<class name="com.readerplus.app.test.MyNotesTest" />	
+			<class name="com.readerplus.app.test.OptionBarTest" />
+		<!--  	<class name="com.readerplus.app.test.SearchPanelTest" />
+			<class name="com.readerplus.app.test.SearchTest" />
+			<class name="com.readerplus.app.test.TOCTest" />
+			<class name="com.readerplus.app.test.NotesAndHighlightsPanelTest" />
+			<class name="com.readerplus.app.test.BookmarkPanelTest" /> -->
+ 		</classes>
+		</test>
+</suite>

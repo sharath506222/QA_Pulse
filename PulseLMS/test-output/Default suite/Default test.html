@@ -1,0 +1,779 @@
+<html>
+<head>
+<title>TestNG:  Default test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Default test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>84/4/0</td>
+</tr><tr>
+<td>Started on:</td><td>Thu Feb 11 19:42:36 IST 2016</td>
+</tr>
+<tr><td>Total time:</td><td>203 seconds (203358 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-failed'>
+<tr><td colspan='4' align='center'><b>FAILED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=, Password=secret12, Role=, Description=Login with invalid Email/Password, UserName=invalid@anymail.com}</td>
+<td><div><pre>java.lang.AssertionError: expected [200] but found [400]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertEquals(Assert.java:123)
+	at org.testng.Assert.assertEquals(Assert.java:370)
+	at org.testng.Assert.assertEquals(Assert.java:380)
+	at com.pulselms.api.test.TestUsers.webCredentialsPulse(TestUsers.java:43)
+	at com.pulselms.api.test.TestUsers.GetAllUsersTest(TestUsers.java:25)
+	at sun.reflect.GeneratedMethodAccessor47.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+</pre></div><a href='#' onClick='toggleBox("stack-trace12329549", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace12329549'><pre>java.lang.AssertionError: expected [200] but found [400]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertEquals(Assert.java:123)
+	at org.testng.Assert.assertEquals(Assert.java:370)
+	at org.testng.Assert.assertEquals(Assert.java:380)
+	at com.pulselms.api.test.TestUsers.webCredentialsPulse(TestUsers.java:43)
+	at com.pulselms.api.test.TestUsers.GetAllUsersTest(TestUsers.java:25)
+	at sun.reflect.GeneratedMethodAccessor47.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+</pre></div></td>
+<td>1</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=, Password=, Role=, Description=login with Blankfields, UserName=}</td>
+<td><div><pre>java.lang.AssertionError: expected [200] but found [400]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertEquals(Assert.java:123)
+	at org.testng.Assert.assertEquals(Assert.java:370)
+	at org.testng.Assert.assertEquals(Assert.java:380)
+	at com.pulselms.api.test.TestUsers.webCredentialsPulse(TestUsers.java:43)
+	at com.pulselms.api.test.TestUsers.GetAllUsersTest(TestUsers.java:25)
+	at sun.reflect.GeneratedMethodAccessor47.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+</pre></div><a href='#' onClick='toggleBox("stack-trace27764744", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace27764744'><pre>java.lang.AssertionError: expected [200] but found [400]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertEquals(Assert.java:123)
+	at org.testng.Assert.assertEquals(Assert.java:370)
+	at org.testng.Assert.assertEquals(Assert.java:380)
+	at com.pulselms.api.test.TestUsers.webCredentialsPulse(TestUsers.java:43)
+	at com.pulselms.api.test.TestUsers.GetAllUsersTest(TestUsers.java:25)
+	at sun.reflect.GeneratedMethodAccessor47.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+</pre></div></td>
+<td>1</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=, Password=secret12, Role=, Description=login with user blank, UserName=}</td>
+<td><div><pre>java.lang.AssertionError: expected [200] but found [400]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertEquals(Assert.java:123)
+	at org.testng.Assert.assertEquals(Assert.java:370)
+	at org.testng.Assert.assertEquals(Assert.java:380)
+	at com.pulselms.api.test.TestUsers.webCredentialsPulse(TestUsers.java:43)
+	at com.pulselms.api.test.TestUsers.GetAllUsersTest(TestUsers.java:25)
+	at sun.reflect.GeneratedMethodAccessor47.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+</pre></div><a href='#' onClick='toggleBox("stack-trace24541057", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace24541057'><pre>java.lang.AssertionError: expected [200] but found [400]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertEquals(Assert.java:123)
+	at org.testng.Assert.assertEquals(Assert.java:370)
+	at org.testng.Assert.assertEquals(Assert.java:380)
+	at com.pulselms.api.test.TestUsers.webCredentialsPulse(TestUsers.java:43)
+	at com.pulselms.api.test.TestUsers.GetAllUsersTest(TestUsers.java:25)
+	at sun.reflect.GeneratedMethodAccessor47.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+</pre></div></td>
+<td>1</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=, Password=, Role=, Description=login with password blank, UserName=john@anymail.com}</td>
+<td><div><pre>java.lang.AssertionError: expected [200] but found [400]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertEquals(Assert.java:123)
+	at org.testng.Assert.assertEquals(Assert.java:370)
+	at org.testng.Assert.assertEquals(Assert.java:380)
+	at com.pulselms.api.test.TestUsers.webCredentialsPulse(TestUsers.java:43)
+	at com.pulselms.api.test.TestUsers.GetAllUsersTest(TestUsers.java:25)
+	at sun.reflect.GeneratedMethodAccessor47.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+</pre></div><a href='#' onClick='toggleBox("stack-trace20008137", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace20008137'><pre>java.lang.AssertionError: expected [200] but found [400]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertEquals(Assert.java:123)
+	at org.testng.Assert.assertEquals(Assert.java:370)
+	at org.testng.Assert.assertEquals(Assert.java:380)
+	at com.pulselms.api.test.TestUsers.webCredentialsPulse(TestUsers.java:43)
+	at com.pulselms.api.test.TestUsers.GetAllUsersTest(TestUsers.java:25)
+	at sun.reflect.GeneratedMethodAccessor47.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:348)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:343)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:305)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:254)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+</pre></div></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+</table><p>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Kownacki, Sue, Password=secret12, Role=Teacher, Description=Login with valid Email and Password, UserName=s.kownacki@anymail.com}</td>
+<td></td>
+<td>6</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=McCloud, Dawn, Password=secret12, Role=Teacher, Description=Login with valid Email and Password, UserName=d.mccloud@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Shin, Jesusa, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=j.shin@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Frances, Rolland, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=r.frances@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Schmierer, Pamella, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=p.schmierer@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Kulzer, Glory, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=g.kulzer@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Pope, Shawna, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=s.pope@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Callaro, Brandon, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=b.callaro@anymail.com}</td>
+<td></td>
+<td>4</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Cartan, Scarlet, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=s.cartan@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Menter, Oretha, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=o.mener@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Smith, Ty, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=t.smith@anymail.com}</td>
+<td></td>
+<td>4</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Rochin, Juan, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=j.rochin@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Diello, Lindsey, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=l.diello@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Perez, Deborah, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=d.perez@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Dempsey, Heath, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=h.dempsey@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Mehta, Rory, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=r.mehta@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Mehta, Talia, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=t.mehta@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Hanson, Van, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=v.hanson@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Larry, Lucinda, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=l.larry@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Isaac, Beth, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=b.isaac@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Spickerman, Roland, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=r.spickerman@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Paulson, Howard, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=h.paulson@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Marison, Kim, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=k.marison@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Thurman, Uma, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=u.thurman@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Fuentes, Becky, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=b.fuentes@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Corrington, Beatriz, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=b.corrington@anymail.com}</td>
+<td></td>
+<td>1</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Maybury, Martin, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=m.maybury@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Gotter, Nieves, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=n.gotter@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Hanson, Leah, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=l.hanson@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Kind, Valorie, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=v.kind@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Wiklund, Melissa, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=m.wiklund@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Zane, Sheridan, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=s.zane@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Simmons, Ben, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=b.simmons@anymail.com}</td>
+<td></td>
+<td>3</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Kohn, Audra, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=a.kohn@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Weismann, Darren, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=d.weismann@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Jillson, Fernanada, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=f.jillson@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Fredricks, Helga, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=h.fredricks@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Pines, Ash, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=a.pines@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Neves, Fausto, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=f.neves@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Cass, Ron, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=r.cass@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Mann, Margaret, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=m.mann@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Atterbury, Norah, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=n.atterbury@anymail.com}</td>
+<td></td>
+<td>1</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Baltimore, Aliza, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=a.baltimore@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Kindle, Carrie, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=c.kindle@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Hermon, Mason, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=m.hermon@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Hair, Minda, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=m.hair@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Jeff, Gilma, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=g.jeff@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=James, Amanda, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=a.james@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Norman, Viola, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=v.norman@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Mondale, Tess, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=t.mondale@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Costello, Elvis, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=e.costello@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Didi, Louise, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=l.didi@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Yellen, Janet, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=j.yellen@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Rand, Margot, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=m.rand@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Bennett, Dahlia, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=d.bennett@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=McKeon, Domingo, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=d.mckeon@anymail.com}</td>
+<td></td>
+<td>1</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Kendall, Holly, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=h.kendall@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Ziller, Kam, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=k.ziller@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Goetz, Boris, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=b.goetz@anymail.com}</td>
+<td></td>
+<td>1</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Staiano, Yolanda, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=y.staiano@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Hamm, Laurie, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=l.hamm@anymail.com}</td>
+<td></td>
+<td>4</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Hanson, Jose, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=j.hanson@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Abramovitz, Tom, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=t.abramovitz@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Nunez, Peggy, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=p.nunez@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Hank, Robbie, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=r.hank@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Kesten, Sam, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=s.kesten@anymail.com}</td>
+<td></td>
+<td>3</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Manson, Ben, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=b.manson@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Harms, Shirley, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=s.harms@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Ward, Alyssa, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=a.ward@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Gifford, Frank, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=f.gifford@anymail.com}</td>
+<td></td>
+<td>1</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Steinhorst, Rian, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=r.steinhorst@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Kallen, Carla, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=c.kallen@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Smith, Lashanda, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=l.smith@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Catalina, Jarrod, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=j.catalina@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Rabago, Leah, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=l.rabago@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Greeves, Yasmine, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=y.greeves@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Snelling, Jimmie, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=j.snelling@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Thomas, Isaiah, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=i.thomas@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Teoh, Joanna, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=j.teoh@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Menkes, Susie, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=s.menkes@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Amazon, Denny, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=d.amazon@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Geist, Willie, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=w.geist@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Brake, Maggie, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=m.brake@anymail.com}</td>
+<td></td>
+<td>3</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+<tr>
+<td title='com.pulselms.api.test.TestUsers.GetAllUsersTest()'><b>GetAllUsersTest</b><br>Test class: com.pulselms.api.test.TestUsers<br>Parameters: {loggedinUser=Romack, Arlo, Password=secret12, Role=Student, Description=Login with valid Email and Password, UserName=a.romack@anymail.com}</td>
+<td></td>
+<td>2</td>
+<td>com.pulselms.api.test.TestUsers@6e6d5e</td></tr>
+</table><p>
+</body>
+</html>

@@ -1,0 +1,2023 @@
+2016-02-09 12:48:29 INFO : Rows  88
+2016-02-09 12:48:29 INFO : Cols  5
+2016-02-09 12:48:34 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 12:48:56 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 12:48:56 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 12:48:56 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 12:48:56 INFO : Entering Text
+2016-02-09 12:48:56 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 12:48:57 INFO : Entered s.kownacki@anymail.com into the name;loginEmail text field
+2016-02-09 12:48:57 INFO : Entering Text
+2016-02-09 12:48:57 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 12:48:57 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 12:48:57 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 12:48:57 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 12:48:57 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 12:49:04 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 12:50:47 INFO : Rows  88
+2016-02-09 12:50:47 INFO : Cols  5
+2016-02-09 12:50:53 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 12:51:08 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 12:51:08 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 12:51:08 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 12:51:08 INFO : Entering Text
+2016-02-09 12:51:08 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 12:51:09 INFO : Entered s.kownacki@anymail.com into the name;loginEmail text field
+2016-02-09 12:51:09 INFO : Entering Text
+2016-02-09 12:51:09 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 12:51:09 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 12:51:09 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 12:51:09 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 12:51:09 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 12:51:12 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 12:51:12 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 12:51:12 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 12:51:12 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 12:51:12 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 12:51:19 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 12:51:24 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 12:51:38 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 12:51:39 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 12:51:39 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 12:51:39 INFO : Entering Text
+2016-02-09 12:51:39 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 12:51:39 INFO : Entered d.mccloud@anymail.com into the name;loginEmail text field
+2016-02-09 12:51:39 INFO : Entering Text
+2016-02-09 12:51:39 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 12:51:39 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 12:51:39 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 12:51:39 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 12:51:39 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 12:51:42 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 12:51:42 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 12:51:42 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 12:51:42 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 12:51:42 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 12:51:48 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 12:51:54 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 12:52:08 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 12:52:08 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 12:52:08 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 12:52:08 INFO : Entering Text
+2016-02-09 12:52:08 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 12:52:09 INFO : Entered j.shin@anymail.com into the name;loginEmail text field
+2016-02-09 12:52:09 INFO : Entering Text
+2016-02-09 12:52:09 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 12:52:09 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 12:52:09 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 12:52:09 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 12:52:09 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 12:52:12 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 12:52:12 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 12:52:12 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 12:52:12 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 12:52:12 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 12:52:18 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 12:52:23 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 12:52:37 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 12:52:37 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 12:52:37 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 12:52:37 INFO : Entering Text
+2016-02-09 12:52:37 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 12:52:37 INFO : Entered r.frances@anymail.com into the name;loginEmail text field
+2016-02-09 12:52:37 INFO : Entering Text
+2016-02-09 12:52:37 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 12:52:37 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 12:52:37 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 12:52:37 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 12:52:37 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 12:52:40 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 12:52:40 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 12:52:40 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 12:52:40 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 12:52:40 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 12:52:46 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 12:52:51 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 12:53:07 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 12:53:07 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 12:53:07 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 12:53:07 INFO : Entering Text
+2016-02-09 12:53:07 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 12:53:08 INFO : Entered p.schmierer@anymail.com into the name;loginEmail text field
+2016-02-09 12:53:08 INFO : Entering Text
+2016-02-09 12:53:08 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 12:53:08 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 12:53:08 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 12:53:08 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 12:53:08 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 12:53:11 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 12:53:11 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 12:53:11 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 12:53:11 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 12:53:11 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 12:53:17 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 12:53:22 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 12:53:35 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 12:53:35 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 12:53:35 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 12:53:35 INFO : Entering Text
+2016-02-09 12:53:35 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 12:53:36 INFO : Entered g.kulzer@anymail.com into the name;loginEmail text field
+2016-02-09 12:53:36 INFO : Entering Text
+2016-02-09 12:53:36 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 12:53:36 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 12:53:36 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 12:53:36 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 12:53:36 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 12:53:39 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 12:53:39 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 12:53:39 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 12:53:39 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 12:53:39 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 12:53:45 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 12:53:51 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 12:54:03 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 12:54:03 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 12:54:03 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 12:54:03 INFO : Entering Text
+2016-02-09 12:54:03 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 12:54:04 INFO : Entered s.pope@anymail.com into the name;loginEmail text field
+2016-02-09 12:54:04 INFO : Entering Text
+2016-02-09 12:54:04 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 12:54:04 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 12:54:04 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 12:54:04 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 12:54:04 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 12:54:07 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 12:54:07 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 12:54:07 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 12:54:07 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 12:54:07 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 12:54:13 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 12:54:19 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 12:54:32 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 12:54:32 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 12:54:32 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 12:54:32 INFO : Entering Text
+2016-02-09 12:54:32 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 12:54:33 INFO : Entered b.callaro@anymail.com into the name;loginEmail text field
+2016-02-09 12:54:33 INFO : Entering Text
+2016-02-09 12:54:33 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 12:54:33 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 12:54:33 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 12:54:33 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 12:54:33 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 12:54:36 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 12:54:36 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 12:54:36 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 12:54:36 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 12:54:36 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 12:54:36 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 12:54:41 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 12:54:55 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 12:54:55 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 12:54:55 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 12:54:55 INFO : Entering Text
+2016-02-09 12:54:55 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 12:54:56 INFO : Entered s.cartan@anymail.com into the name;loginEmail text field
+2016-02-09 12:54:56 INFO : Entering Text
+2016-02-09 12:54:56 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 12:54:56 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 12:54:56 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 12:54:56 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 12:54:56 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 12:54:59 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 12:54:59 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 12:54:59 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 12:54:59 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 12:54:59 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 12:55:05 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 12:55:10 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 12:55:23 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 12:55:23 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 12:55:23 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 12:55:23 INFO : Entering Text
+2016-02-09 12:55:23 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 12:55:24 INFO : Entered o.mener@anymail.com into the name;loginEmail text field
+2016-02-09 12:55:24 INFO : Entering Text
+2016-02-09 12:55:24 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 12:55:24 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 12:55:24 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 12:55:24 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 12:55:24 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 12:55:27 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 12:55:27 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 12:55:27 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 12:55:27 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 12:55:27 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 12:55:33 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 12:55:38 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 12:55:55 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 12:55:56 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 12:55:56 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 12:55:56 INFO : Entering Text
+2016-02-09 12:55:56 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 12:55:56 INFO : Entered t.smith@anymail.com into the name;loginEmail text field
+2016-02-09 12:55:56 INFO : Entering Text
+2016-02-09 12:55:56 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 12:55:56 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 12:55:56 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 12:55:56 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 12:55:56 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 12:55:59 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 12:55:59 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 12:56:00 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 12:56:00 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 12:56:00 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 12:56:05 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 12:56:11 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 12:56:25 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 12:56:25 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 12:56:25 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 12:56:25 INFO : Entering Text
+2016-02-09 12:56:25 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 12:56:26 INFO : Entered j.rochin@anymail.com into the name;loginEmail text field
+2016-02-09 12:56:26 INFO : Entering Text
+2016-02-09 12:56:26 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 12:56:26 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 12:56:26 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 12:56:26 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 12:56:26 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 12:56:29 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 12:56:29 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 12:56:29 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 12:56:29 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 12:56:29 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 12:56:35 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 12:56:39 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 12:56:54 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 12:56:54 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 12:56:54 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 12:56:54 INFO : Entering Text
+2016-02-09 12:56:54 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 12:56:55 INFO : Entered l.diello@anymail.com into the name;loginEmail text field
+2016-02-09 12:56:55 INFO : Entering Text
+2016-02-09 12:56:55 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 12:56:55 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 12:56:55 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 12:56:55 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 12:56:55 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 12:56:58 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 12:56:58 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 12:56:58 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 12:56:58 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 12:56:58 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 12:57:04 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 12:57:09 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 12:57:23 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 12:57:23 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 12:57:23 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 12:57:23 INFO : Entering Text
+2016-02-09 12:57:23 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 12:57:24 INFO : Entered d.perez@anymail.com into the name;loginEmail text field
+2016-02-09 12:57:24 INFO : Entering Text
+2016-02-09 12:57:24 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 12:57:24 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 12:57:24 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 12:57:24 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 12:57:24 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 12:57:27 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 12:57:27 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 12:57:27 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 12:57:27 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 12:57:27 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 12:57:33 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 12:57:39 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 12:57:54 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 12:57:54 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 12:57:54 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 12:57:54 INFO : Entering Text
+2016-02-09 12:57:54 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 12:57:55 INFO : Entered h.dempsey@anymail.com into the name;loginEmail text field
+2016-02-09 12:57:55 INFO : Entering Text
+2016-02-09 12:57:55 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 12:57:55 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 12:57:55 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 12:57:55 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 12:57:55 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 12:57:58 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 12:57:58 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 12:57:58 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 12:57:58 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 12:57:58 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 12:58:04 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 12:58:09 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 12:58:22 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 12:58:22 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 12:58:22 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 12:58:22 INFO : Entering Text
+2016-02-09 12:58:22 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 12:58:23 INFO : Entered r.mehta@anymail.com into the name;loginEmail text field
+2016-02-09 12:58:23 INFO : Entering Text
+2016-02-09 12:58:23 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 12:58:23 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 12:58:23 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 12:58:23 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 12:58:23 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 12:58:26 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 12:58:26 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 12:58:26 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 12:58:26 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 12:58:26 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 12:58:32 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 12:58:38 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 12:58:55 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 12:58:55 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 12:58:55 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 12:58:55 INFO : Entering Text
+2016-02-09 12:58:55 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 12:58:56 INFO : Entered t.mehta@anymail.com into the name;loginEmail text field
+2016-02-09 12:58:56 INFO : Entering Text
+2016-02-09 12:58:56 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 12:58:56 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 12:58:56 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 12:58:56 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 12:58:56 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 12:58:59 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 12:58:59 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 12:58:59 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 12:58:59 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 12:58:59 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 12:58:59 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 12:59:03 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 12:59:19 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 12:59:19 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 12:59:19 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 12:59:19 INFO : Entering Text
+2016-02-09 12:59:19 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 12:59:20 INFO : Entered v.hanson@anymail.com into the name;loginEmail text field
+2016-02-09 12:59:20 INFO : Entering Text
+2016-02-09 12:59:20 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 12:59:20 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 12:59:20 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 12:59:20 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 12:59:20 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 12:59:23 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 12:59:23 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 12:59:23 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 12:59:23 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 12:59:23 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 12:59:29 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 12:59:34 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 12:59:48 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 12:59:48 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 12:59:48 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 12:59:48 INFO : Entering Text
+2016-02-09 12:59:48 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 12:59:48 INFO : Entered l.larry@anymail.com into the name;loginEmail text field
+2016-02-09 12:59:48 INFO : Entering Text
+2016-02-09 12:59:48 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 12:59:48 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 12:59:49 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 12:59:49 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 12:59:49 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 12:59:52 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 12:59:52 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 12:59:52 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 12:59:52 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 12:59:52 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 12:59:52 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 12:59:57 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:00:11 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:00:11 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:00:11 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:00:11 INFO : Entering Text
+2016-02-09 13:00:11 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:00:11 INFO : Entered b.isaac@anymail.com into the name;loginEmail text field
+2016-02-09 13:00:11 INFO : Entering Text
+2016-02-09 13:00:11 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:00:12 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:00:12 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:00:12 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:00:12 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:00:15 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:00:15 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:00:15 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:00:15 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:00:15 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:00:21 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:00:26 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:00:40 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:00:40 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:00:40 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:00:40 INFO : Entering Text
+2016-02-09 13:00:40 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:00:41 INFO : Entered r.spickerman@anymail.com into the name;loginEmail text field
+2016-02-09 13:00:41 INFO : Entering Text
+2016-02-09 13:00:41 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:00:41 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:00:41 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:00:41 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:00:41 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:00:44 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:00:44 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:00:44 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:00:44 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:00:44 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:00:44 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:00:49 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:01:01 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:01:01 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:01:01 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:01:01 INFO : Entering Text
+2016-02-09 13:01:01 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:01:02 INFO : Entered h.paulson@anymail.com into the name;loginEmail text field
+2016-02-09 13:01:02 INFO : Entering Text
+2016-02-09 13:01:02 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:01:02 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:01:02 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:01:02 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:01:02 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:01:06 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:01:06 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:01:06 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:01:06 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:01:06 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:01:12 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:01:17 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:01:30 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:01:30 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:01:30 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:01:30 INFO : Entering Text
+2016-02-09 13:01:30 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:01:30 INFO : Entered k.marison@anymail.com into the name;loginEmail text field
+2016-02-09 13:01:30 INFO : Entering Text
+2016-02-09 13:01:30 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:01:30 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:01:31 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:01:31 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:01:31 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:01:33 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:01:33 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:01:33 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:01:33 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:01:33 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:01:39 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:01:44 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:01:58 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:01:58 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:01:58 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:01:58 INFO : Entering Text
+2016-02-09 13:01:58 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:01:58 INFO : Entered u.thurman@anymail.com into the name;loginEmail text field
+2016-02-09 13:01:58 INFO : Entering Text
+2016-02-09 13:01:58 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:01:58 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:01:58 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:01:58 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:01:58 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:02:44 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:03:00 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:03:00 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:03:00 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:03:00 INFO : Entering Text
+2016-02-09 13:03:00 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:03:00 INFO : Entered b.fuentes@anymail.com into the name;loginEmail text field
+2016-02-09 13:03:00 INFO : Entering Text
+2016-02-09 13:03:00 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:03:00 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:03:01 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:03:01 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:03:01 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:03:46 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:04:02 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:04:02 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:04:02 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:04:02 INFO : Entering Text
+2016-02-09 13:04:02 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:04:03 INFO : Entered b.corrington@anymail.com into the name;loginEmail text field
+2016-02-09 13:04:03 INFO : Entering Text
+2016-02-09 13:04:03 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:04:03 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:04:03 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:04:03 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:04:03 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:04:06 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:04:06 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:04:06 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:04:06 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:04:06 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:04:12 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:04:17 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:04:33 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:04:33 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:04:33 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:04:33 INFO : Entering Text
+2016-02-09 13:04:33 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:04:33 INFO : Entered m.maybury@anymail.com into the name;loginEmail text field
+2016-02-09 13:04:33 INFO : Entering Text
+2016-02-09 13:04:33 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:04:34 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:04:34 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:04:34 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:04:34 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:04:36 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:04:36 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:04:37 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:04:37 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:04:37 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:04:43 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:04:48 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:05:03 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:05:03 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:05:03 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:05:03 INFO : Entering Text
+2016-02-09 13:05:03 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:05:04 INFO : Entered n.gotter@anymail.com into the name;loginEmail text field
+2016-02-09 13:05:04 INFO : Entering Text
+2016-02-09 13:05:04 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:05:04 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:05:04 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:05:04 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:05:04 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:05:07 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:05:07 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:05:07 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:05:07 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:05:07 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:05:13 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:05:19 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:05:31 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:05:31 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:05:31 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:05:31 INFO : Entering Text
+2016-02-09 13:05:31 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:05:32 INFO : Entered l.hanson@anymail.com into the name;loginEmail text field
+2016-02-09 13:05:32 INFO : Entering Text
+2016-02-09 13:05:32 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:05:32 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:05:32 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:05:32 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:05:32 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:05:35 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:05:35 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:05:35 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:05:35 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:05:35 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:05:35 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:05:40 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:05:53 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:05:53 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:05:53 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:05:53 INFO : Entering Text
+2016-02-09 13:05:53 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:05:53 INFO : Entered v.kind@anymail.com into the name;loginEmail text field
+2016-02-09 13:05:53 INFO : Entering Text
+2016-02-09 13:05:53 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:05:54 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:05:54 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:05:54 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:05:54 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:05:56 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:05:56 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:05:56 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:05:56 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:05:57 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:06:03 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:06:08 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:06:21 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:06:21 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:06:21 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:06:21 INFO : Entering Text
+2016-02-09 13:06:21 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:06:22 INFO : Entered m.wiklund@anymail.com into the name;loginEmail text field
+2016-02-09 13:06:22 INFO : Entering Text
+2016-02-09 13:06:22 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:06:22 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:06:22 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:06:22 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:06:22 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:06:25 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:06:25 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:06:25 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:06:25 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:06:25 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:06:31 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:06:36 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:06:51 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:06:51 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:06:51 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:06:51 INFO : Entering Text
+2016-02-09 13:06:51 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:06:51 INFO : Entered s.zane@anymail.com into the name;loginEmail text field
+2016-02-09 13:06:51 INFO : Entering Text
+2016-02-09 13:06:51 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:06:51 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:06:51 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:06:51 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:06:51 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:06:54 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:06:54 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:06:54 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:06:54 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:06:54 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:07:00 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:07:06 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:07:21 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:07:21 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:07:21 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:07:21 INFO : Entering Text
+2016-02-09 13:07:21 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:07:21 INFO : Entered b.simmons@anymail.com into the name;loginEmail text field
+2016-02-09 13:07:21 INFO : Entering Text
+2016-02-09 13:07:21 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:07:21 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:07:22 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:07:22 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:07:22 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:07:25 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:07:25 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:07:25 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:07:25 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:07:25 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:07:30 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:07:36 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:07:49 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:07:49 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:07:49 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:07:49 INFO : Entering Text
+2016-02-09 13:07:49 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:07:50 INFO : Entered a.kohn@anymail.com into the name;loginEmail text field
+2016-02-09 13:07:50 INFO : Entering Text
+2016-02-09 13:07:50 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:07:50 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:07:50 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:07:50 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:07:50 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:07:53 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:07:53 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:07:53 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:07:53 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:07:53 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:07:59 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:08:04 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:08:19 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:08:19 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:08:19 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:08:19 INFO : Entering Text
+2016-02-09 13:08:19 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:08:20 INFO : Entered d.weismann@anymail.com into the name;loginEmail text field
+2016-02-09 13:08:20 INFO : Entering Text
+2016-02-09 13:08:20 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:08:20 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:08:20 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:08:20 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:08:20 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:08:23 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:08:23 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:08:23 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:08:23 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:08:23 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:08:31 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:08:35 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:08:50 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:08:50 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:08:50 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:08:50 INFO : Entering Text
+2016-02-09 13:08:50 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:08:51 INFO : Entered f.jillson@anymail.com into the name;loginEmail text field
+2016-02-09 13:08:51 INFO : Entering Text
+2016-02-09 13:08:51 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:08:51 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:08:51 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:08:51 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:08:51 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:08:54 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:08:54 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:08:54 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:08:54 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:08:54 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:09:00 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:09:05 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:09:19 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:09:19 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:09:19 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:09:19 INFO : Entering Text
+2016-02-09 13:09:19 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:09:19 INFO : Entered h.fredricks@anymail.com into the name;loginEmail text field
+2016-02-09 13:09:19 INFO : Entering Text
+2016-02-09 13:09:19 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:09:19 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:09:20 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:09:20 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:09:20 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:09:22 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:09:22 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:09:22 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:09:22 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:09:22 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:09:29 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:09:34 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:09:46 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:09:46 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:09:46 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:09:46 INFO : Entering Text
+2016-02-09 13:09:46 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:09:46 INFO : Entered a.pines@anymail.com into the name;loginEmail text field
+2016-02-09 13:09:46 INFO : Entering Text
+2016-02-09 13:09:46 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:09:47 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:09:47 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:09:47 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:09:47 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:09:50 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:09:50 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:09:50 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:09:50 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:09:50 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:09:56 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:10:01 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:10:15 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:10:15 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:10:15 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:10:15 INFO : Entering Text
+2016-02-09 13:10:15 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:10:16 INFO : Entered f.neves@anymail.com into the name;loginEmail text field
+2016-02-09 13:10:16 INFO : Entering Text
+2016-02-09 13:10:16 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:10:16 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:10:16 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:10:16 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:10:16 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:10:19 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:10:19 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:10:19 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:10:19 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:10:19 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:10:25 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:10:30 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:10:45 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:10:45 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:10:45 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:10:45 INFO : Entering Text
+2016-02-09 13:10:45 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:10:45 INFO : Entered r.cass@anymail.com into the name;loginEmail text field
+2016-02-09 13:10:45 INFO : Entering Text
+2016-02-09 13:10:45 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:10:46 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:10:46 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:10:46 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:10:46 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:10:49 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:10:49 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:10:49 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:10:49 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:10:49 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:10:55 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:10:59 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:11:12 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:11:12 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:11:12 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:11:12 INFO : Entering Text
+2016-02-09 13:11:12 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:11:13 INFO : Entered m.mann@anymail.com into the name;loginEmail text field
+2016-02-09 13:11:13 INFO : Entering Text
+2016-02-09 13:11:13 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:11:13 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:11:13 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:11:13 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:11:13 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:11:16 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:11:16 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:11:16 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:11:16 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:11:16 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:11:22 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:11:27 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:11:41 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:11:41 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:11:41 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:11:41 INFO : Entering Text
+2016-02-09 13:11:41 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:11:42 INFO : Entered n.atterbury@anymail.com into the name;loginEmail text field
+2016-02-09 13:11:42 INFO : Entering Text
+2016-02-09 13:11:42 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:11:42 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:11:42 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:11:42 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:11:42 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:11:45 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:11:45 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:11:45 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:11:45 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:11:45 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:11:45 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:11:50 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:12:04 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:12:04 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:12:04 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:12:04 INFO : Entering Text
+2016-02-09 13:12:04 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:12:04 INFO : Entered a.baltimore@anymail.com into the name;loginEmail text field
+2016-02-09 13:12:04 INFO : Entering Text
+2016-02-09 13:12:04 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:12:05 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:12:05 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:12:05 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:12:05 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:12:08 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:12:08 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:12:08 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:12:08 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:12:08 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:12:08 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:12:13 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:12:26 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:12:26 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:12:26 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:12:26 INFO : Entering Text
+2016-02-09 13:12:26 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:12:27 INFO : Entered c.kindle@anymail.com into the name;loginEmail text field
+2016-02-09 13:12:27 INFO : Entering Text
+2016-02-09 13:12:27 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:12:27 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:12:27 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:12:27 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:12:27 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:12:30 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:12:30 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:12:30 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:12:30 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:12:30 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:12:36 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:12:41 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:12:53 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:12:54 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:12:54 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:12:54 INFO : Entering Text
+2016-02-09 13:12:54 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:12:54 INFO : Entered m.hermon@anymail.com into the name;loginEmail text field
+2016-02-09 13:12:54 INFO : Entering Text
+2016-02-09 13:12:54 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:12:54 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:12:54 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:12:54 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:12:54 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:12:57 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:12:57 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:12:57 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:12:57 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:12:57 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:13:03 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:13:08 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:13:22 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:13:22 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:13:22 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:13:22 INFO : Entering Text
+2016-02-09 13:13:22 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:13:23 INFO : Entered m.hair@anymail.com into the name;loginEmail text field
+2016-02-09 13:13:23 INFO : Entering Text
+2016-02-09 13:13:23 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:13:23 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:13:23 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:13:23 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:13:23 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:13:27 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:13:27 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:13:27 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:13:27 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:13:27 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:13:33 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:13:38 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:13:49 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:13:49 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:13:49 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:13:49 INFO : Entering Text
+2016-02-09 13:13:49 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:13:49 INFO : Entered g.jeff@anymail.com into the name;loginEmail text field
+2016-02-09 13:13:49 INFO : Entering Text
+2016-02-09 13:13:49 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:13:50 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:13:50 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:13:50 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:13:50 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:13:53 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:13:53 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:13:53 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:13:53 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:13:53 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:13:59 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:14:04 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:14:17 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:14:17 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:14:17 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:14:17 INFO : Entering Text
+2016-02-09 13:14:17 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:14:17 INFO : Entered a.james@anymail.com into the name;loginEmail text field
+2016-02-09 13:14:17 INFO : Entering Text
+2016-02-09 13:14:17 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:14:17 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:14:18 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:14:18 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:14:18 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:14:21 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:14:21 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:14:21 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:14:21 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:14:21 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:14:27 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:14:32 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:14:45 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:14:45 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:14:45 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:14:45 INFO : Entering Text
+2016-02-09 13:14:45 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:14:45 INFO : Entered v.norman@anymail.com into the name;loginEmail text field
+2016-02-09 13:14:45 INFO : Entering Text
+2016-02-09 13:14:45 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:14:46 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:14:46 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:14:46 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:14:46 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:14:48 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:14:48 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:14:49 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:14:49 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:14:49 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:14:54 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:14:59 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:15:12 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:15:12 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:15:12 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:15:12 INFO : Entering Text
+2016-02-09 13:15:12 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:15:13 INFO : Entered t.mondale@anymail.com into the name;loginEmail text field
+2016-02-09 13:15:13 INFO : Entering Text
+2016-02-09 13:15:13 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:15:13 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:15:13 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:15:13 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:15:13 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:15:16 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:15:16 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:15:16 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:15:16 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:15:16 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:15:22 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:15:26 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:15:37 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:15:37 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:15:37 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:15:37 INFO : Entering Text
+2016-02-09 13:15:37 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:15:38 INFO : Entered e.costello@anymail.com into the name;loginEmail text field
+2016-02-09 13:15:38 INFO : Entering Text
+2016-02-09 13:15:38 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:15:38 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:15:38 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:15:38 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:15:38 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:15:41 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:15:41 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:15:41 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:15:41 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:15:41 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:15:47 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:15:52 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:16:05 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:16:05 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:16:06 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:16:06 INFO : Entering Text
+2016-02-09 13:16:06 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:16:06 INFO : Entered l.didi@anymail.com into the name;loginEmail text field
+2016-02-09 13:16:06 INFO : Entering Text
+2016-02-09 13:16:06 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:16:06 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:16:06 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:16:06 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:16:06 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:16:09 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:16:09 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:16:09 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:16:09 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:16:09 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:16:16 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:16:21 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:16:36 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:16:36 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:16:36 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:16:36 INFO : Entering Text
+2016-02-09 13:16:36 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:16:37 INFO : Entered j.yellen@anymail.com into the name;loginEmail text field
+2016-02-09 13:16:37 INFO : Entering Text
+2016-02-09 13:16:37 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:16:37 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:16:37 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:16:37 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:16:37 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:16:40 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:16:40 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:16:40 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:16:40 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:16:40 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:16:46 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:16:51 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:17:06 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:17:06 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:17:06 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:17:06 INFO : Entering Text
+2016-02-09 13:17:06 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:17:07 INFO : Entered m.rand@anymail.com into the name;loginEmail text field
+2016-02-09 13:17:07 INFO : Entering Text
+2016-02-09 13:17:07 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:17:07 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:17:07 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:17:07 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:17:07 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:17:10 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:17:10 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:17:10 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:17:10 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:17:10 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:17:16 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:17:21 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:17:36 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:17:36 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:17:36 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:17:36 INFO : Entering Text
+2016-02-09 13:17:36 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:17:36 INFO : Entered d.bennett@anymail.com into the name;loginEmail text field
+2016-02-09 13:17:36 INFO : Entering Text
+2016-02-09 13:17:36 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:17:36 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:17:37 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:17:37 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:17:37 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:17:39 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:17:39 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:17:39 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:17:39 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:17:39 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:17:40 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:17:45 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:17:59 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:17:59 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:17:59 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:17:59 INFO : Entering Text
+2016-02-09 13:17:59 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:18:00 INFO : Entered d.mckeon@anymail.com into the name;loginEmail text field
+2016-02-09 13:18:00 INFO : Entering Text
+2016-02-09 13:18:00 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:18:00 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:18:00 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:18:00 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:18:00 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:18:46 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:18:59 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:18:59 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:18:59 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:18:59 INFO : Entering Text
+2016-02-09 13:18:59 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:19:00 INFO : Entered h.kendall@anymail.com into the name;loginEmail text field
+2016-02-09 13:19:00 INFO : Entering Text
+2016-02-09 13:19:00 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:19:00 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:19:00 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:19:00 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:19:00 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:19:04 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:19:04 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:19:04 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:19:04 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:19:04 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:19:11 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:19:16 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:19:29 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:19:29 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:19:29 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:19:29 INFO : Entering Text
+2016-02-09 13:19:29 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:19:29 INFO : Entered k.ziller@anymail.com into the name;loginEmail text field
+2016-02-09 13:19:29 INFO : Entering Text
+2016-02-09 13:19:29 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:19:29 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:19:29 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:19:29 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:19:29 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:19:32 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:19:32 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:19:32 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:19:32 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:19:32 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:19:38 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:19:43 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:19:56 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:19:56 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:19:56 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:19:56 INFO : Entering Text
+2016-02-09 13:19:56 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:19:56 INFO : Entered b.goetz@anymail.com into the name;loginEmail text field
+2016-02-09 13:19:56 INFO : Entering Text
+2016-02-09 13:19:56 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:19:57 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:19:57 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:19:57 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:19:57 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:20:00 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:20:00 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:20:00 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:20:00 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:20:00 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:20:06 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:20:11 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:20:23 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:20:24 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:20:24 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:20:24 INFO : Entering Text
+2016-02-09 13:20:24 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:20:24 INFO : Entered y.staiano@anymail.com into the name;loginEmail text field
+2016-02-09 13:20:24 INFO : Entering Text
+2016-02-09 13:20:24 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:20:24 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:20:24 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:20:24 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:20:24 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:20:27 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:20:27 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:20:27 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:20:27 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:20:27 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:20:33 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:20:38 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:20:53 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:20:53 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:20:53 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:20:53 INFO : Entering Text
+2016-02-09 13:20:53 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:20:54 INFO : Entered l.hamm@anymail.com into the name;loginEmail text field
+2016-02-09 13:20:54 INFO : Entering Text
+2016-02-09 13:20:54 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:20:54 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:20:54 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:20:54 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:20:54 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:21:39 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:21:52 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:21:53 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:21:53 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:21:53 INFO : Entering Text
+2016-02-09 13:21:53 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:21:53 INFO : Entered j.hanson@anymail.com into the name;loginEmail text field
+2016-02-09 13:21:53 INFO : Entering Text
+2016-02-09 13:21:53 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:21:53 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:21:53 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:21:53 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:21:53 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:21:56 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:21:56 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:21:56 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:21:56 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:21:56 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:22:02 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:22:07 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:22:22 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:22:22 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:22:22 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:22:22 INFO : Entering Text
+2016-02-09 13:22:22 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:22:22 INFO : Entered t.abramovitz@anymail.com into the name;loginEmail text field
+2016-02-09 13:22:22 INFO : Entering Text
+2016-02-09 13:22:22 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:22:22 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:22:23 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:22:23 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:22:23 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:22:25 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:22:25 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:22:25 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:22:25 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:22:25 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:22:32 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:22:37 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:22:52 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:22:52 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:22:52 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:22:52 INFO : Entering Text
+2016-02-09 13:22:52 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:22:52 INFO : Entered p.nunez@anymail.com into the name;loginEmail text field
+2016-02-09 13:22:52 INFO : Entering Text
+2016-02-09 13:22:52 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:22:53 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:22:53 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:22:53 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:22:53 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:22:56 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:22:56 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:22:56 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:22:56 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:22:56 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:23:02 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:23:06 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:23:19 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:23:19 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:23:19 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:23:20 INFO : Entering Text
+2016-02-09 13:23:20 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:23:20 INFO : Entered r.hank@anymail.com into the name;loginEmail text field
+2016-02-09 13:23:20 INFO : Entering Text
+2016-02-09 13:23:20 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:23:20 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:23:20 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:23:20 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:23:20 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:23:23 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:23:23 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:23:23 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:23:23 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:23:23 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:23:29 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:23:34 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:23:47 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:23:47 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:23:47 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:23:47 INFO : Entering Text
+2016-02-09 13:23:47 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:23:48 INFO : Entered s.kesten@anymail.com into the name;loginEmail text field
+2016-02-09 13:23:48 INFO : Entering Text
+2016-02-09 13:23:48 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:23:48 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:23:48 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:23:48 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:23:48 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:23:51 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:23:51 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:23:51 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:23:51 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:23:51 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:23:57 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:24:02 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:24:16 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:24:16 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:24:16 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:24:16 INFO : Entering Text
+2016-02-09 13:24:16 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:24:16 INFO : Entered b.manson@anymail.com into the name;loginEmail text field
+2016-02-09 13:24:16 INFO : Entering Text
+2016-02-09 13:24:16 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:24:16 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:24:16 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:24:16 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:24:16 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:24:19 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:24:19 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:24:19 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:24:19 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:24:19 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:24:26 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:24:31 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:24:46 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:24:46 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:24:46 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:24:46 INFO : Entering Text
+2016-02-09 13:24:46 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:24:47 INFO : Entered s.harms@anymail.com into the name;loginEmail text field
+2016-02-09 13:24:47 INFO : Entering Text
+2016-02-09 13:24:47 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:24:47 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:24:47 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:24:47 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:24:47 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:24:50 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:24:50 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:24:50 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:24:50 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:24:50 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:24:56 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:25:00 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:25:13 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:25:13 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:25:13 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:25:13 INFO : Entering Text
+2016-02-09 13:25:13 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:25:13 INFO : Entered a.ward@anymail.com into the name;loginEmail text field
+2016-02-09 13:25:13 INFO : Entering Text
+2016-02-09 13:25:13 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:25:14 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:25:14 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:25:14 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:25:14 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:25:17 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:25:17 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:25:17 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:25:17 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:25:17 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:25:23 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:25:29 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:26:04 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:26:04 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:26:04 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:26:04 INFO : Entering Text
+2016-02-09 13:26:04 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:26:04 INFO : Entered f.gifford@anymail.com into the name;loginEmail text field
+2016-02-09 13:26:04 INFO : Entering Text
+2016-02-09 13:26:04 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:26:04 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:26:04 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:26:04 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:26:04 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:26:07 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:26:07 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:26:07 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:26:07 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:26:07 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:26:13 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:26:19 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:26:33 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:26:34 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:26:34 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:26:34 INFO : Entering Text
+2016-02-09 13:26:34 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:26:34 INFO : Entered r.steinhorst@anymail.com into the name;loginEmail text field
+2016-02-09 13:26:34 INFO : Entering Text
+2016-02-09 13:26:34 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:26:34 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:26:34 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:26:34 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:26:34 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:26:38 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:26:38 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:26:38 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:26:38 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:26:38 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:26:44 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:26:49 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:27:02 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:27:02 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:27:02 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:27:02 INFO : Entering Text
+2016-02-09 13:27:02 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:27:03 INFO : Entered c.kallen@anymail.com into the name;loginEmail text field
+2016-02-09 13:27:03 INFO : Entering Text
+2016-02-09 13:27:03 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:27:03 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:27:03 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:27:03 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:27:03 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:27:06 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:27:06 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:27:06 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:27:06 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:27:06 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:27:12 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:27:16 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:27:30 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:27:30 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:27:30 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:27:30 INFO : Entering Text
+2016-02-09 13:27:30 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:27:31 INFO : Entered l.smith@anymail.com into the name;loginEmail text field
+2016-02-09 13:27:31 INFO : Entering Text
+2016-02-09 13:27:31 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:27:31 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:27:31 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:27:31 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:27:31 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:27:34 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:27:34 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:27:34 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:27:34 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:27:34 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:27:40 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:27:45 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:28:01 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:28:01 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:28:01 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:28:01 INFO : Entering Text
+2016-02-09 13:28:01 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:28:02 INFO : Entered j.catalina@anymail.com into the name;loginEmail text field
+2016-02-09 13:28:02 INFO : Entering Text
+2016-02-09 13:28:02 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:28:02 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:28:02 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:28:02 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:28:02 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:28:05 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:28:05 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:28:05 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:28:05 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:28:05 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:28:11 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:28:16 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:28:33 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:28:33 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:28:33 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:28:33 INFO : Entering Text
+2016-02-09 13:28:33 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:28:34 INFO : Entered l.rabago@anymail.com into the name;loginEmail text field
+2016-02-09 13:28:34 INFO : Entering Text
+2016-02-09 13:28:34 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:28:34 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:28:34 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:28:34 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:28:34 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:28:37 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:28:37 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:28:37 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:28:37 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:28:37 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:28:43 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:28:48 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:29:01 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:29:01 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:29:01 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:29:01 INFO : Entering Text
+2016-02-09 13:29:01 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:29:02 INFO : Entered y.greeves@anymail.com into the name;loginEmail text field
+2016-02-09 13:29:02 INFO : Entering Text
+2016-02-09 13:29:02 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:29:02 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:29:02 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:29:02 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:29:02 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:29:47 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:30:03 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:30:03 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:30:03 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:30:03 INFO : Entering Text
+2016-02-09 13:30:03 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:30:04 INFO : Entered j.snelling@anymail.com into the name;loginEmail text field
+2016-02-09 13:30:04 INFO : Entering Text
+2016-02-09 13:30:04 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:30:04 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:30:04 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:30:04 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:30:04 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:30:06 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:30:06 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:30:06 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:30:07 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:30:07 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:30:13 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:30:18 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:30:28 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:30:28 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:30:28 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:30:28 INFO : Entering Text
+2016-02-09 13:30:28 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:30:29 INFO : Entered i.thomas@anymail.com into the name;loginEmail text field
+2016-02-09 13:30:29 INFO : Entering Text
+2016-02-09 13:30:29 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:30:29 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:30:29 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:30:29 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:30:29 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:30:32 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:30:32 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:30:32 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:30:32 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:30:32 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:30:38 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:30:43 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:30:57 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:30:57 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:30:57 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:30:57 INFO : Entering Text
+2016-02-09 13:30:57 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:30:57 INFO : Entered j.teoh@anymail.com into the name;loginEmail text field
+2016-02-09 13:30:57 INFO : Entering Text
+2016-02-09 13:30:57 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:30:58 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:30:58 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:30:58 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:30:58 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:31:02 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:31:02 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:31:02 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:31:02 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:31:02 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:31:08 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:31:14 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:31:28 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:31:28 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:31:28 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:31:28 INFO : Entering Text
+2016-02-09 13:31:28 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:31:28 INFO : Entered s.menkes@anymail.com into the name;loginEmail text field
+2016-02-09 13:31:28 INFO : Entering Text
+2016-02-09 13:31:28 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:31:28 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:31:28 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:31:28 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:31:28 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:31:31 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:31:31 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:31:31 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:31:31 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:31:31 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:31:37 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:31:42 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:31:58 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:31:58 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:31:58 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:31:58 INFO : Entering Text
+2016-02-09 13:31:58 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:31:58 INFO : Entered d.amazon@anymail.com into the name;loginEmail text field
+2016-02-09 13:31:58 INFO : Entering Text
+2016-02-09 13:31:58 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:31:59 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:31:59 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:31:59 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:31:59 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:32:44 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:32:57 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:32:57 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:32:57 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:32:57 INFO : Entering Text
+2016-02-09 13:32:57 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:32:58 INFO : Entered w.geist@anymail.com into the name;loginEmail text field
+2016-02-09 13:32:58 INFO : Entering Text
+2016-02-09 13:32:58 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:32:58 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:32:58 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:32:58 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:32:58 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:33:02 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:33:02 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:33:02 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:33:02 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:33:02 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:33:09 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:33:13 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:33:28 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:33:28 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:33:28 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:33:28 INFO : Entering Text
+2016-02-09 13:33:28 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:33:28 INFO : Entered m.brake@anymail.com into the name;loginEmail text field
+2016-02-09 13:33:28 INFO : Entering Text
+2016-02-09 13:33:28 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:33:29 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:33:29 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:33:29 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:33:29 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:33:31 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:33:31 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:33:31 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:33:31 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:33:31 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:33:39 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:33:44 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:33:58 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:33:58 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:33:58 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:33:58 INFO : Entering Text
+2016-02-09 13:33:58 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:33:59 INFO : Entered a.romack@anymail.com into the name;loginEmail text field
+2016-02-09 13:33:59 INFO : Entering Text
+2016-02-09 13:33:59 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:33:59 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:33:59 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:33:59 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:33:59 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 13:34:07 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:34:07 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:34:07 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 13:34:07 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 13:34:07 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 13:34:13 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 13:34:18 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:34:31 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:34:31 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:34:31 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:34:31 INFO : Entering Text
+2016-02-09 13:34:31 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:34:31 INFO : Entered invalid@anymail.com into the name;loginEmail text field
+2016-02-09 13:34:31 INFO : Entering Text
+2016-02-09 13:34:31 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:34:31 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:34:32 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:34:32 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:34:32 INFO : Waiting until the text check is displayed on the elementBy.xpath: //*[@id='error']
+2016-02-09 13:34:33 INFO : Getting the text of the element: By.xpath: //*[@id='error']
+2016-02-09 13:34:37 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:34:53 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:34:53 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:34:53 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:34:53 INFO : Entering Text
+2016-02-09 13:34:53 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:34:53 INFO : Entered  into the name;loginEmail text field
+2016-02-09 13:34:53 INFO : Entering Text
+2016-02-09 13:34:53 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:34:53 INFO : Entered  into the name;loginPassword text field
+2016-02-09 13:34:53 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:34:53 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:34:53 INFO : Waiting until the text email is displayed on the elementBy.xpath: //*[@id='usrpasseErorEmpty']
+2016-02-09 13:34:54 INFO : Getting the text of the element: By.xpath: //*[@id='usrpasseErorEmpty']
+2016-02-09 13:35:00 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:35:14 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:35:14 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:35:14 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:35:14 INFO : Entering Text
+2016-02-09 13:35:14 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:35:14 INFO : Entered  into the name;loginEmail text field
+2016-02-09 13:35:14 INFO : Entering Text
+2016-02-09 13:35:14 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:35:14 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 13:35:14 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:35:14 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:35:14 INFO : Waiting until the text email is displayed on the elementBy.xpath: //*[@id='usrErrorEmpty']
+2016-02-09 13:35:18 INFO : Getting the text of the element: By.xpath: //*[@id='usrErrorEmpty']
+2016-02-09 13:35:23 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 13:35:37 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 13:35:37 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 13:35:37 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 13:35:37 INFO : Entering Text
+2016-02-09 13:35:37 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 13:35:37 INFO : Entered john@anymail.com into the name;loginEmail text field
+2016-02-09 13:35:37 INFO : Entering Text
+2016-02-09 13:35:37 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 13:35:38 INFO : Entered  into the name;loginPassword text field
+2016-02-09 13:35:38 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 13:35:38 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 13:35:38 INFO : Waiting until the text password is displayed on the elementBy.xpath: //*[@id='passeErorEmpty']
+2016-02-09 13:35:39 INFO : Getting the text of the element: By.xpath: //*[@id='passeErorEmpty']
+2016-02-09 16:17:07 INFO : Rows  88
+2016-02-09 16:17:07 INFO : Cols  5
+2016-02-09 16:17:25 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 16:17:44 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 16:17:45 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 16:17:45 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 16:17:45 INFO : Entering Text
+2016-02-09 16:17:45 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 16:17:46 INFO : Entered s.kownacki@anymail.com into the name;loginEmail text field
+2016-02-09 16:17:46 INFO : Entering Text
+2016-02-09 16:17:46 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 16:17:46 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 16:17:46 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 16:17:46 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 16:17:46 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 16:17:49 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 16:17:49 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 16:17:49 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 16:17:49 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 16:17:49 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 16:17:49 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 16:17:57 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 16:18:13 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 16:18:13 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 16:18:13 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 16:18:13 INFO : Entering Text
+2016-02-09 16:18:13 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 16:18:14 INFO : Entered d.mccloud@anymail.com into the name;loginEmail text field
+2016-02-09 16:18:14 INFO : Entering Text
+2016-02-09 16:18:14 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 16:18:14 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 16:18:14 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 16:18:14 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 16:18:14 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 16:18:17 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 16:18:17 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 16:18:17 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 16:18:17 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 16:18:17 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 16:18:24 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 16:18:29 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 16:18:44 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 16:18:44 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 16:18:44 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 16:18:44 INFO : Entering Text
+2016-02-09 16:18:44 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 16:18:44 INFO : Entered j.shin@anymail.com into the name;loginEmail text field
+2016-02-09 16:18:44 INFO : Entering Text
+2016-02-09 16:18:44 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 16:18:44 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 16:18:45 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 16:18:45 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 16:18:45 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 16:18:47 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 16:18:47 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 16:18:47 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 16:18:48 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 16:18:48 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 16:18:54 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 16:19:00 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 16:19:13 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 16:19:13 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 16:19:13 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 16:19:13 INFO : Entering Text
+2016-02-09 16:19:13 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 16:19:14 INFO : Entered r.frances@anymail.com into the name;loginEmail text field
+2016-02-09 16:19:14 INFO : Entering Text
+2016-02-09 16:19:14 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 16:19:14 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 16:19:14 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 16:19:14 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 16:19:14 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 16:19:17 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 16:19:17 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 16:19:17 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 16:19:17 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 16:19:17 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 16:19:17 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 16:19:22 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 16:19:39 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 16:19:39 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 16:19:39 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 16:19:39 INFO : Entering Text
+2016-02-09 16:19:39 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 16:19:40 INFO : Entered p.schmierer@anymail.com into the name;loginEmail text field
+2016-02-09 16:19:40 INFO : Entering Text
+2016-02-09 16:19:40 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 16:19:40 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 16:19:40 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 16:19:40 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 16:19:40 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 16:20:26 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 16:20:45 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 16:20:45 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 16:20:45 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 16:20:45 INFO : Entering Text
+2016-02-09 16:20:45 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 16:20:46 INFO : Entered g.kulzer@anymail.com into the name;loginEmail text field
+2016-02-09 16:20:46 INFO : Entering Text
+2016-02-09 16:20:46 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 16:20:46 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 16:20:46 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 16:20:46 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 16:20:46 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 16:20:49 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 16:20:49 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 16:20:49 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 16:20:49 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 16:20:49 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 16:20:55 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 16:21:01 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 16:21:18 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 16:21:18 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 16:21:18 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 16:21:18 INFO : Entering Text
+2016-02-09 16:21:18 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 16:21:19 INFO : Entered s.pope@anymail.com into the name;loginEmail text field
+2016-02-09 16:21:19 INFO : Entering Text
+2016-02-09 16:21:19 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 16:21:19 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 16:21:19 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 16:21:19 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 16:21:19 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 16:21:22 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 16:21:22 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 16:21:22 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 16:21:22 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 16:21:22 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 16:21:28 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 16:21:34 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 16:21:50 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 16:21:50 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 16:21:50 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 16:21:50 INFO : Entering Text
+2016-02-09 16:21:50 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 16:21:50 INFO : Entered b.callaro@anymail.com into the name;loginEmail text field
+2016-02-09 16:21:50 INFO : Entering Text
+2016-02-09 16:21:50 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 16:21:50 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 16:21:51 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 16:21:51 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 16:21:51 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 16:21:53 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 16:21:53 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 16:21:53 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 16:21:53 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 16:21:53 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 16:22:00 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 16:22:05 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 16:22:19 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 16:22:20 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 16:22:20 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 16:22:20 INFO : Entering Text
+2016-02-09 16:22:20 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 16:22:20 INFO : Entered s.cartan@anymail.com into the name;loginEmail text field
+2016-02-09 16:22:20 INFO : Entering Text
+2016-02-09 16:22:20 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 16:22:20 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 16:22:20 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 16:22:20 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 16:22:20 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 16:22:25 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 16:22:25 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 16:22:25 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 16:22:25 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 16:22:25 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 16:22:31 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 16:22:37 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 16:22:50 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 16:22:50 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 16:22:50 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 16:22:50 INFO : Entering Text
+2016-02-09 16:22:50 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 16:22:51 INFO : Entered o.mener@anymail.com into the name;loginEmail text field
+2016-02-09 16:22:51 INFO : Entering Text
+2016-02-09 16:22:51 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 16:22:51 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 16:22:51 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 16:22:51 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 16:22:51 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 16:22:54 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 16:22:54 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 16:22:54 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 16:22:54 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 16:22:54 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 16:23:01 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 16:23:07 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 16:23:20 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 16:23:20 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 16:23:20 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 16:23:20 INFO : Entering Text
+2016-02-09 16:23:20 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 16:23:21 INFO : Entered t.smith@anymail.com into the name;loginEmail text field
+2016-02-09 16:23:21 INFO : Entering Text
+2016-02-09 16:23:21 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 16:23:21 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 16:23:21 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 16:23:21 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 16:23:21 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 16:23:25 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 16:23:25 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 16:23:25 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 16:23:25 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 16:23:25 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 16:23:31 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 16:23:37 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 16:23:52 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 16:23:52 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 16:23:52 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 16:23:52 INFO : Entering Text
+2016-02-09 16:23:52 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 16:23:53 INFO : Entered j.rochin@anymail.com into the name;loginEmail text field
+2016-02-09 16:23:53 INFO : Entering Text
+2016-02-09 16:23:53 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 16:23:53 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 16:23:53 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 16:23:53 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 16:23:53 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 16:23:56 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 16:23:56 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 16:23:56 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 16:23:56 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 16:23:57 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 16:24:03 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 16:24:08 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 16:24:21 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 16:24:21 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 16:24:21 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 16:24:21 INFO : Entering Text
+2016-02-09 16:24:21 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 16:24:22 INFO : Entered l.diello@anymail.com into the name;loginEmail text field
+2016-02-09 16:24:22 INFO : Entering Text
+2016-02-09 16:24:22 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 16:24:22 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 16:24:22 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 16:24:22 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 16:24:22 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 16:24:25 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 16:24:25 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 16:24:25 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 16:24:25 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 16:24:25 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 16:24:32 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 16:24:38 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 16:24:51 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 16:24:51 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 16:24:51 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 16:24:51 INFO : Entering Text
+2016-02-09 16:24:51 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 16:24:51 INFO : Entered d.perez@anymail.com into the name;loginEmail text field
+2016-02-09 16:24:51 INFO : Entering Text
+2016-02-09 16:24:51 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 16:24:51 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 16:24:51 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 16:24:51 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 16:24:51 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 16:24:54 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 16:24:54 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 16:24:54 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 16:24:54 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 16:24:54 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 16:25:01 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 16:25:07 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 16:25:21 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 16:25:21 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 16:25:21 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 16:25:21 INFO : Entering Text
+2016-02-09 16:25:21 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 16:25:22 INFO : Entered h.dempsey@anymail.com into the name;loginEmail text field
+2016-02-09 16:25:22 INFO : Entering Text
+2016-02-09 16:25:22 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 16:25:22 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 16:25:22 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 16:25:22 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 16:25:22 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 16:25:25 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 16:25:25 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 16:25:25 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 16:25:25 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 16:25:25 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 16:25:31 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 16:25:37 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 16:25:49 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 16:25:49 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 16:25:49 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 16:25:49 INFO : Entering Text
+2016-02-09 16:25:49 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 16:25:50 INFO : Entered r.mehta@anymail.com into the name;loginEmail text field
+2016-02-09 16:25:50 INFO : Entering Text
+2016-02-09 16:25:50 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 16:25:50 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 16:25:50 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 16:25:50 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 16:25:50 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 16:25:53 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 16:25:53 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 16:25:53 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 16:25:53 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 16:25:53 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 16:25:59 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 16:26:04 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 16:26:16 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 16:26:16 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 16:26:16 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 16:26:16 INFO : Entering Text
+2016-02-09 16:26:16 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 16:26:17 INFO : Entered t.mehta@anymail.com into the name;loginEmail text field
+2016-02-09 16:26:17 INFO : Entering Text
+2016-02-09 16:26:17 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 16:26:17 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 16:26:17 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 16:26:17 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 16:26:17 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 16:26:20 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 16:26:20 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 16:26:20 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 16:26:20 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 16:26:20 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 16:26:26 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 16:26:31 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-09 16:26:45 INFO : Waiting until the elements specified by By.name: loginEmail is present
+2016-02-09 16:26:45 INFO : Waiting until the elements specified by By.name: loginPassword are present
+2016-02-09 16:26:45 INFO : Waiting until the elements specified by By.xpath: //*[@id='signIn'] are displayed
+2016-02-09 16:26:45 INFO : Entering Text
+2016-02-09 16:26:45 INFO : Waiting until the element By.name: loginEmail becomes clickable
+2016-02-09 16:26:46 INFO : Entered v.hanson@anymail.com into the name;loginEmail text field
+2016-02-09 16:26:46 INFO : Entering Text
+2016-02-09 16:26:46 INFO : Waiting until the element By.name: loginPassword becomes clickable
+2016-02-09 16:26:46 INFO : Entered secret12 into the name;loginPassword text field
+2016-02-09 16:26:46 INFO : Clicked on element: By.xpath: //*[@id='signIn']
+2016-02-09 16:26:46 INFO : Waiting until the element By.name: loginEmail becomes invisible
+2016-02-09 16:26:46 INFO : Waiting until the elements specified by By.xpath: //*[@id='main']/div/div[2]/div[1]/h3 is present
+2016-02-09 16:26:49 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 16:26:49 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 16:26:49 INFO : Waiting until the elements specified by By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1] is present
+2016-02-09 16:26:49 INFO : Getting the text of the element: By.xpath: //*[@id='loggedInMyNavbar']/div/div/div[1]/div/div[4]/ul/li[1]
+2016-02-09 16:26:49 INFO : Waiting until the elements specified by By.xpath: //li[@class='signOutDesktop']/a are present
+2016-02-09 16:26:55 INFO : Clicked on element: By.xpath: //li[@class='signOutDesktop']/a
+2016-02-09 16:27:00 INFO : Loading the URL:https://pulse-stg.noip.me/#/
+2016-02-10 20:10:23 INFO : Rows  88
+2016-02-10 20:10:23 INFO : Cols  5
+2016-02-10 20:17:02 INFO : Rows  88
+2016-02-10 20:17:02 INFO : Cols  5
+2016-02-10 20:35:59 INFO : Rows  88
+2016-02-10 20:35:59 INFO : Cols  5
+2016-02-10 20:38:42 INFO : Rows  88
+2016-02-10 20:38:42 INFO : Cols  5
+2016-02-10 21:19:05 INFO : Rows  88
+2016-02-10 21:19:05 INFO : Cols  5
+2016-02-10 21:38:01 INFO : Rows  88
+2016-02-10 21:38:01 INFO : Cols  5
+2016-02-10 21:39:36 INFO : Rows  88
+2016-02-10 21:39:36 INFO : Cols  5
+2016-02-10 21:41:26 INFO : Rows  88
+2016-02-10 21:41:26 INFO : Cols  5
+2016-02-11 14:45:52 INFO : Rows  88
+2016-02-11 14:45:52 INFO : Cols  5
+2016-02-11 14:46:21 INFO : Rows  88
+2016-02-11 14:46:21 INFO : Cols  5
+2016-02-11 14:47:27 INFO : Rows  88
+2016-02-11 14:47:27 INFO : Cols  5
+2016-02-11 14:48:32 INFO : Rows  88
+2016-02-11 14:48:32 INFO : Cols  5
+2016-02-11 14:59:23 INFO : Rows  88
+2016-02-11 14:59:23 INFO : Cols  5
+2016-02-11 18:45:39 INFO : Rows  88
+2016-02-11 18:45:39 INFO : Cols  5
+2016-02-11 19:19:05 INFO : Rows  88
+2016-02-11 19:19:05 INFO : Cols  5
+2016-02-11 19:22:50 INFO : Rows  88
+2016-02-11 19:22:50 INFO : Cols  5
+2016-02-11 19:24:28 INFO : Rows  88
+2016-02-11 19:24:28 INFO : Cols  5
+2016-02-11 19:26:09 INFO : Rows  88
+2016-02-11 19:26:09 INFO : Cols  5
+2016-02-11 19:27:14 INFO : Rows  88
+2016-02-11 19:27:14 INFO : Cols  5
+2016-02-11 19:31:24 INFO : Rows  88
+2016-02-11 19:31:24 INFO : Cols  5
+2016-02-11 19:42:38 INFO : Rows  88
+2016-02-11 19:42:38 INFO : Cols  5
+2016-02-19 11:23:19 INFO : Rows  88
+2016-02-19 11:23:19 INFO : Cols  5
+2016-02-19 11:45:30 INFO : Rows  88
+2016-02-19 11:45:30 INFO : Cols  5
+2016-02-19 11:49:21 INFO : Rows  88
+2016-02-19 11:49:21 INFO : Cols  5
+2016-02-19 11:49:50 INFO : Rows  88
+2016-02-19 11:49:50 INFO : Cols  5
